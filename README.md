@@ -1,6 +1,6 @@
 # Hi, I'm Kranthi Kumar Morthala 👋
 
-> SOC Analyst · 24×7 SIEM/SOAR Operations · CrowdStrike · Splunk · Incident Response
+> Cyber Security Analyst · 24×7 SIEM/SOAR Operations · CrowdStrike · Splunk · Incident Response
 
 ![SC-200](https://img.shields.io/badge/SC--200-Microsoft%20Certified-0078D4?style=flat&logo=microsoft)
 ![Splunk](https://img.shields.io/badge/Splunk-SIEM-green?style=flat&logo=splunk)
