@@ -9,8 +9,8 @@
 
 ## 🛡️ About Me
 - 🔭 SOC Analyst @ Revalsys Technologies (Aug 2022 – Apr 2026)
-- ⚡ Investigate **50+ daily alerts** — phishing, DLP, endpoint threats
 - 🧠 Expertise in **Splunk + XSOAR**, **CrowdStrike Falcon**, **M365 Defender**
+- ⚡ Investigate **50+ daily alerts** — phishing, DLP, endpoint threats
 - 📜 Certified: **SC-200** – Microsoft Security Operations Analyst
 
 ## 🧰 Tech Stack
